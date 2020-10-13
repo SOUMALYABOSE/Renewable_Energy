@@ -1,0 +1,2 @@
+# Renewable_Energy
+A realistic model based on Java algorithm titled “SUDDHA SHE 1426” has been developed. Suddha is capable of forecasting conventional sources of energy, computing the potential of a nation to produce energy from renewable sources using realistic parametric estimates and in turn help in proper transition from Non-Renewable to Renewable source of energy for efficient electricity generation. 
